@@ -258,8 +258,5 @@ figure.effect:hover h2 {
   transform: translate3d(0, 0, 0);
   color: #747474;
 }
-figure.arrow:hover{
-  display: none;
-}
 
 /* content */
