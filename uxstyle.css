@@ -115,21 +115,21 @@ button {
 	position: absolute;
 	bottom:0px;
 	left: 50%;
-	margin-left: -350px;
+	margin-left: -320px;
 }
 
 #logo a img{
-	height: 30px;
+	height: 25px;
 	margin:5px 20px;
 }
 
 #mail{
 	letter-spacing: 0.4px;
-	padding-top:55px;
+	padding-top:50px;
 	height: 10px;
 	position: absolute;
 	right: 50%;
-	margin-right: -330px;
+	margin-right: -320px;
 
 }
 
