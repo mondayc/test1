@@ -99,13 +99,14 @@ footer{
 
 #logo a img{
 	height: 25px;
-	margin:5px 10px;
+	margin:5px;
 }
 
 #mail{
 	letter-spacing: 0.4px;
 	float: right;
 	margin-top: 35px;
+	padding-right: 10px;
 }
 
 
@@ -113,6 +114,7 @@ footer{
 /* footer */
 
 /* content */
+
 .content{
 	margin-bottom: 20px;
 	display: block;
